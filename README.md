@@ -9,7 +9,7 @@
 
 <h1>Mobile</h1>
 <p align="center">
-  <img alt="" src=".github/mobile.png" width="100%">
+  <img alt="" src=".github/mobile.png" width="30%">
 </p>
 
 
